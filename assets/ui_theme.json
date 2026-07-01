@@ -1,0 +1,7 @@
+{
+    "window_title": "Face App",
+    "font_title": ["Arial", 18, "bold"],
+    "font_normal": ["Arial", 12],
+    "padding": 12,
+    "button_radius": 15
+}
